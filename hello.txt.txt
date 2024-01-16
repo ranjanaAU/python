@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 i eat grapes
+=======
+i eat apple
+
+>>>>>>> branch2
